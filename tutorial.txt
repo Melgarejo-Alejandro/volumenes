@@ -1,0 +1,5 @@
+1. Descargar y hacer funcionar el docker desktop
+2. abrir un cmd e ir a la carpeta en donde esta el archivo .yaml del repositorio
+3. docker compose -f docker-compose-ci.yaml build  --- pa que compile
+4. docker compose -f docker-compose-ci.yaml up     --- pa que corra
+5. y pues ya, va a tirar el valor indefinidamente
